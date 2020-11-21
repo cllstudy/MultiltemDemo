@@ -1,0 +1,148 @@
+[
+  {
+    "creatTime": "2020-11-20 02:53:57",
+    "currentFloor": 1,
+    "id": 1,
+    "mapName": "一楼",
+    "mapNumber": "131605840801671",
+    "mapPointBeans": [
+      {
+        "currentFloor": 1,
+        "id": 3,
+        "mapNumber": "131605840801671",
+        "pointLevel": 0,
+        "pointName": "我是一楼点位",
+        "pointNumber": "1605852765",
+        "pointR": "0.01140000010512451",
+        "pointType": 0,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      },
+      {
+        "currentFloor": 1,
+        "id": 4,
+        "mapNumber": "131605840801671",
+        "pointLevel": 0,
+        "pointName": "非官方旗舰店",
+        "pointNumber": "1605852770",
+        "pointR": "0.01140000010512451",
+        "pointType": 0,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      },
+      {
+        "currentFloor": 1,
+        "id": 5,
+        "mapNumber": "131605840801671",
+        "pointLevel": 0,
+        "pointName": "奇葩都有",
+        "pointNumber": "1605852721",
+        "pointR": "0.01140000010512451",
+        "pointType": 0,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      },
+      {
+        "currentFloor": 1,
+        "id": 6,
+        "mapNumber": "131605840801671",
+        "pointLevel": 1,
+        "pointName": "1-电梯前等待点",
+        "pointNumber": "1605852767",
+        "pointR": "0.01140000010512451",
+        "pointType": 2,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      },
+      {
+        "currentFloor": 1,
+        "id": 7,
+        "mapNumber": "131605840801671",
+        "pointLevel": 1,
+        "pointName": "1-电梯内等待点",
+        "pointNumber": "1605852723",
+        "pointR": "0.01140000010512451",
+        "pointType": 3,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      },
+      {
+        "currentFloor": 1,
+        "id": 8,
+        "mapNumber": "131605840801671",
+        "pointLevel": 1,
+        "pointName": "1-售货机等待点",
+        "pointNumber": "1605852765",
+        "pointR": "0.01140000010512451",
+        "pointType": 1,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      },
+      {
+        "currentFloor": 1,
+        "id": 9,
+        "mapNumber": "131605840801671",
+        "pointLevel": 1,
+        "pointName": "你好看",
+        "pointNumber": "1605852728",
+        "pointR": "0.01140000010512451",
+        "pointType": 0,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 1
+      }
+    ],
+    "updateTime": "2020-11-20 02:53:57"
+  },
+  {
+    "creatTime": "2020-11-20 02:54:46",
+    "currentFloor": 2,
+    "id": 2,
+    "mapName": "二楼",
+    "mapNumber": "581605840864783",
+    "mapPointBeans": [
+      {
+        "currentFloor": 2,
+        "id": 1,
+        "mapNumber": "581605840864783",
+        "pointLevel": 0,
+        "pointName": "餐厅3",
+        "pointNumber": "1605841138",
+        "pointR": "-15.653709285138486",
+        "pointType": 0,
+        "pointX": "0.0033715384",
+        "pointY": "-9.3802396E-4",
+        "tid": 2
+      },
+      {
+        "currentFloor": 2,
+        "id": 2,
+        "mapNumber": "581605840864783",
+        "pointLevel": 1,
+        "pointName": "2-电梯前等待点",
+        "pointNumber": "1605849699",
+        "pointR": "0.01140000010512451",
+        "pointType": 2,
+        "pointX": "0.0049113375",
+        "pointY": "0.0",
+        "tid": 2
+      }
+    ],
+    "updateTime": "2020-11-20 02:54:46"
+  },
+  {
+    "creatTime": "2020-11-20 05:17:28",
+    "currentFloor": 3,
+    "id": 3,
+    "mapName": "我们这边的话就可以啦啦啦啦啦啦啦啦啦啦啦",
+    "mapNumber": "251605849410495",
+    "mapPointBeans": [],
+    "updateTime": "2020-11-20 05:17:28"
+  }
+]
